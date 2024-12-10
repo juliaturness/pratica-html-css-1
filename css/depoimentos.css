@@ -1,0 +1,28 @@
+.Depoimentos{
+    margin: 50px auto;
+
+}
+.depoimentos__titulo{
+    font-family: var(--tittle-font);
+    font-weight: var(--tittle-weight);
+    font-size: 1.5em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.depoimentos__conteudo{
+    display: flex;
+    justify-content: space-around;
+}
+
+.depoimentos__container{
+    text-align: center;
+    width: 20%;
+}
+
+.depoimentos__autor{
+    font-family: var(--tittle-font);
+    font-weight: var(--tittle-weight);
+    font-size: .8em;
+    margin: 5px 0;
+}
